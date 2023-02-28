@@ -1,0 +1,4 @@
+# MetaTraceApplicationAndServer
+
+一款即时通信项目
+包含Android客户端和基于SpringBoot的服务端
